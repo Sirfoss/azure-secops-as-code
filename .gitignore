@@ -1,0 +1,38 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+crash.log
+*.tfvars
+!example.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.pfx
+*.key
+local.settings.json
+secrets/
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Exports and raw data (never commit raw logs)
+*.csv
+exports/
+raw/
+
+# OS and editor
+.DS_Store
+Thumbs.db
+.vscode/settings.json
