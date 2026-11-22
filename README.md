@@ -45,7 +45,7 @@ evidence/       screenshots and before/after results
 Nothing is marked done without proof. Each detection has a test, an alert
 screenshot, tuning notes and the date it was last tested. Posture work shows
 before-and-after results. Artifacts are labeled **Lab**, **Simulated** or
-**Work (sanitized)**. Full rules are in [EVIDENCE_RULES.md](EVIDENCE_RULES.md).
+**Case Study**. Full rules are in [EVIDENCE_RULES.md](EVIDENCE_RULES.md).
 
 ## License
 
